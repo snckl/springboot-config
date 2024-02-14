@@ -1,11 +1,11 @@
 build:
-  version: "3.0"
+  version: "1.0"
 
 accounts:
   message: "Welcome to bank accounts local API"
   contactDetails:
-    name: "John Doe -Developer"
-    email: "johndoe@bank.com"
+    name: "Robert Helz -Developer"
+    email: "{cipher}e0c015edcf8b20f92eebd67790ea71d3d307472d0de282955bdcf456b7cf206bcc41195a24206c9e4a80b30e42b723be"
   onCallSupport:
     -(555)555-1234
     -(555)523-1345
