@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to bank loans QA API"
   contactDetails:
-    name: "John Qoe -QA Lead"
-    email: "qoe@bank.com"
+    name: "Rick Fin -QA Lead"
+    email: "{cipher}9a3a953d16d652ba45f53653cfa0d67b8f6f78582eef1f2de4cba71a053eac1ed9628b76adbcf07d238e0e738d7c951e"
   onCallSupport:
     -(555)265-2315
     -(555)674-4636
