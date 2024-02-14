@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to bank loans prod API"
+  contactDetails:
+    name: "John Carder -Product Owner"
+    email: "card@bank.com"
+  onCallSupport:
+    -(555)462-3531
+    -(555)795-3532

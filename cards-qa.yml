@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to bank cards QA API"
+  contactDetails:
+    name: "John Qoe -QA Lead"
+    email: "qoe@bank.com"
+  onCallSupport:
+    -(555)265-2315
+    -(555)674-4636

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to bank accounts prod API"
+  contactDetails:
+    name: "John Owner -Product Owner"
+    email: "owne@bank.com"
+  onCallSupport:
+    -(555)462-1324
+    -(555)795-5743
