@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to bank loans prod API"
+  message: "Welcome to bank loans local API"
   contactDetails:
-    name: "John Carder -Product Owner"
-    email: "card@bank.com"
+    name: "Robert Helz -Developer"
+    email: "{cipher}e0c015edcf8b20f92eebd67790ea71d3d307472d0de282955bdcf456b7cf206bcc41195a24206c9e4a80b30e42b723be"
   onCallSupport:
     -(555)462-3531
     -(555)795-3532
