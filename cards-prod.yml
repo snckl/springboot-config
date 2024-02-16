@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to bank cards prod API"
+  message: "Welcome to bank cards production API"
   contactDetails:
     name: "John Doe -Product Owner"
     email: "{cipher}e76e8f9283ac34985600fd876c8964ffee058498c8b9ddaa6c245ecf318a4be0ceea01df305021b8c54a046c5421820a"
